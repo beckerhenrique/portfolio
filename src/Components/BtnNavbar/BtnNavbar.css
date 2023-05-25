@@ -1,0 +1,16 @@
+.btnNavBar {
+  display: flex;
+   gap: 2rem;
+   width: 170px;
+  align-items: center;
+}
+.btnNavBar:hover{
+   cursor: pointer;
+   color: #d946ef;
+}
+.btnNavBar h3 {
+  font-size: 30px;
+}
+.btnNavBar a {
+  font-size: 25px;
+}
